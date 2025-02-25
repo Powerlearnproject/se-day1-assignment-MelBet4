@@ -5,14 +5,17 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 -It's the process of writing code, to build apps, websites or games with an aim of solving real world problems.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 -Structured programming: Introduced organized code with control structures and modularization, improving readablity and maintainability.
 -Object-oriented programming: Focused on objects that combine data and behaviour, enabling reuse and modularity in software design.
 -Agile methodology: Shifted to iterative development, emphasizing flexibility, collaboration and customer feeback for faster, more adaptive software creation.
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
 -Planning: Define project goals, scope, and resources needed for development.
 -Analysis: Gather and analyze requirements from stakeholders to understand needs.
 -Design: Create architecture, system, and interface design to guide development.
@@ -22,6 +25,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 -Maintenance: Provide ongoing updates, bug fixes, and improvements post-launch.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 -Waterfall method uses linear and sequential approach, where each phase must be completed before moving to the next while Agile uses Iterative and incremental, with continuous collaboration and feedback from stakeholders.
 -Waterfall methos is used in large, well-defined projects like government contracts or construction software, where requirements are fixed upfront while Agile is used in startups or tech companies developing dynamic products, where requirements may evolve (e.g., mobile apps or software with frequent updates).
 
@@ -98,5 +102,12 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 4. Maximizing AI potential: By understanding how to communicate with AI, users can unlock its full capabilities, improving results in various applications (e.g., content creation, problem-solving, coding).
 
 
-
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+Vague Prompt: "Tell me about technology."
+Improved Prompt: "Explain how artificial intelligence is transforming the healthcare industry, with examples of its applications."
+
+Why the Improved Prompt is More Effective:
+- Clarity: Specifies the focus on AI rather than general technology.  
+- Specificity: Targets the healthcare industry, narrowing the scope.  
+- Conciseness: Clearly defines the expected response and asks for examples to provide depth.  
